@@ -5,5 +5,5 @@ say_hello("Gabriela")
 Hello Gabriela!
 
 def greeting(nakisha)
-  puts "Hello, #{greeting} !"
+  puts "Hello, #{greeting}!"
 end
